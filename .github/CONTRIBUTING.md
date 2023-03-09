@@ -9,7 +9,7 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/coreui/coreui-free-bootstrap-admin-template/issues) is
+The [issue tracker](https://github.com/coreui/coreui-free-angular-admin-template/issues) is
 the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests)
 and [submitting pull requests](#pull-requests), but please respect the following
 restrictions:
@@ -17,7 +17,7 @@ restrictions:
 * Please **do not** use the issue tracker for personal support requests.
 
 * Please **do not** post comments consisting solely of "+1" or ":thumbsup:".
-  Use [GitHub's "reactions" feature](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)
+  Use [GitHub's "reactions" feature](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)
   instead.
 
 ## Bug reports
@@ -89,11 +89,11 @@ included in the project:
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/<your-username>/coreui.git
+   git clone https://github.com/<your-username>/coreui-vue.git
    # Navigate to the newly cloned directory
    cd coreui
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/coreui/coreui.git
+   git remote add upstream https://github.com/coreui/coreui-vue.git
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:
